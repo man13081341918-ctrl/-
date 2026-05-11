@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Lingua",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Lingua翻译",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "lingua-unia-app",
+  "description": "一个人造语言翻译工具"
+}
